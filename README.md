@@ -49,7 +49,7 @@ Copy code
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-git clone https://github.com/your-username/ai-resume-analyzer.git
+git clone https://github.com/madhan6708/ai-resume-analyzer.git
 cd ai-resume-analyzer
 
 2.Create virtual environment (optional but recommended)
