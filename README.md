@@ -46,7 +46,7 @@ Copy code
 
 ---
 
-## ⚙️ Installation & Setup
+## 1⚙️ Installation & Setup
 
 1. Clone the repository:
 git clone https://github.com/madhan6708/ai-resume-analyzer.git
@@ -98,7 +98,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-# 3️⃣ requirements.txt (Very Important)
+# 2 Requirements.txt (Very Important)
 
 Create **requirements.txt** and paste:
 
