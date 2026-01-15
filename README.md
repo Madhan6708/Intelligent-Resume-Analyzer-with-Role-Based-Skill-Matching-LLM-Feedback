@@ -30,4 +30,10 @@ This project simulates how modern ATS (Applicant Tracking Systems) screen candid
 ---
 
 ## 📂 Project Structure
-
+├── app.py
+├── resume_parser.py
+├── skill_extractor.py
+├── dataset_loader.py
+├── role_skills_dataset.py
+├── llm_feedback.py
+├── requirements.txt
