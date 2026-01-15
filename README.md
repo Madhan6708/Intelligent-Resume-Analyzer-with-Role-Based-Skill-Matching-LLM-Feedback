@@ -64,3 +64,50 @@ ollama pull phi3
 
 5.Run the application:
 streamlit run app.py
+
+🧠 How It Works
+
+User uploads resume (PDF)
+
+System extracts the complete skills section
+
+Skills are normalized and cleaned using regex
+
+Role-specific skills are loaded from dataset
+
+Deterministic matching logic calculates fit score
+
+Local LLM generates qualitative feedback
+
+📌 Use Cases
+
+Resume screening automation
+
+Career guidance tools
+
+ATS simulation
+
+Skill gap analysis
+
+HR Tech prototypes
+
+📄 License
+
+This project is open-source and available under the MIT License.
+
+
+---
+
+# 3️⃣ requirements.txt (Very Important)
+
+Create **requirements.txt** and paste:
+
+```txt
+streamlit
+pdfplumber
+pytesseract
+pillow
+ollama
+
+
+If you use others, add them, but do not over-add.
